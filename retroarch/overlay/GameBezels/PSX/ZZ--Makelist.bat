@@ -1,0 +1,1 @@
+dir *.* /d/o > DirList.txt
