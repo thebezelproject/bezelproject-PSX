@@ -9,4 +9,4 @@ The bezel packs are used in a RetroPie build for providing game bezels.
 
 The graphics in this repository follow the following design.
 
-![Sample bezel](https://github.com/thebezelproject/bezelproject-PSX/blob/master/retroarch/overlay/GameBezels/PSX/A%20Bug's%20Life%20(USA).png?raw=true)
+![Sample bezel](https://github.com/thebezelproject/bezelproject-PSX/blob/master/retroarch/overlay/GameBezels/PSX/Disney-Pixa%20A%20Bug's%20Life%20(USA).png?raw=true)
